@@ -30,7 +30,14 @@ This is pretty easy:
 <h1 style="font-size:1em ;"> Hello!</h1>
 ```
 
-Again with the header <h1> and you should always end it with </h1>.
+Again with the header 
+```
+<h1>
+```
+and you should always end it with 
+```
+</h1>.
+```
 Here's a little example:
 ```
 <h1>Why am I still here *sigh* </h1>
@@ -40,6 +47,6 @@ There is also <div> </div> <p> </p> and that are all the headers
 
 Here's how to make colored text using HTML!
 ```
-<h2><span style="color:#FF0000">H</span><span style="color:#FF4600">e</span><span style="color:#FF8B00">r</span><span style="color:#FFD100">e</span><span style="color:#E8FF00">'</span><span style="color:#A2FF00">s</span> <span style="color:#5DFF00">a</span> <span style="color:#17FF00">s</span><span style="color:#00FF2E">u</span><span style="color:#00FF74">r</span><span style="color:#00FFB9">p</span><span style="color:#00FFFF">r</span><span style="color:#00B9FF">i</span><span style="color:#0074FF">s</span><span style="color:#002EFF">e</span> <span style="color:#1700FF">f</span><span style="color:#5D00FF">o</span><span style="color:#A200FF">r</span> <span style="color:#E800FF">y</span><span style="color:#FF00D1">o</span><span style="color:#FF008B">u</span><span style="color:#FF0046">!</span></h2>
+<h2><span style="color:#FF0000">A</span><span style="color:#FF2600">n</span><span style="color:#FF4D00">d</span> <span style="color:#FF7300">n</span><span style="color:#FF9900">o</span><span style="color:#FFBF00">w</span> <span style="color:#FFE500">y</span><span style="color:#F2FF00">o</span><span style="color:#CCFF00">u</span> <span style="color:#A6FF00">k</span><span style="color:#80FF00">n</span><span style="color:#59FF00">o</span><span style="color:#33FF00">w</span> <span style="color:#0DFF00">h</span><span style="color:#00FF19">o</span><span style="color:#00FF40">w</span> <span style="color:#00FF66">t</span><span style="color:#00FF8C">o</span> <span style="color:#00FFB3">m</span><span style="color:#00FFD9">a</span><span style="color:#00FFFF">k</span><span style="color:#00D9FF">e</span> <span style="color:#00B2FF">r</span><span style="color:#008CFF">a</span><span style="color:#0066FF">i</span><span style="color:#0040FF">n</span><span style="color:#0019FF">b</span><span style="color:#0D00FF">o</span><span style="color:#3300FF">w</span> <span style="color:#5900FF">t</span><span style="color:#7F00FF">e</span><span style="color:#A600FF">x</span><span style="color:#CC00FF">t</span> <span style="color:#F200FF">i</span><span style="color:#FF00E6">n</span> <span style="color:#FF00BF">H</span><span style="color:#FF0099">T</span><span style="color:#FF0073">M</span><span style="color:#FF004C">L</span><span style="color:#FF0026">.</span></h2>
 ```
 
