@@ -1,3 +1,6 @@
+## Here's a simple Pong game, you should figure this out easily.
+
+
 ```
 <!DOCTYPE html>
 <html>
